@@ -8,7 +8,7 @@ class Service extends Component {
                 <div className="container">
                     <div className="col-l2">
                         <div className="section-title section-title2 text-center">
-                            <span>Me considero una persona muy versátil, estos son:</span>
+                            <span>Cultivo una gran variedad de disciplinas, estos son:</span>
                             <h2>Mis Servicios Profesionales</h2>
                         </div>
                     </div>
