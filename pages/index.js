@@ -18,7 +18,7 @@ const HomePage =() => {
         <Fragment>
             <Navbar />
             <Banner/>
-            <About/>
+            {/* <About/> */}
             <Service/>
             <Portfolio/>
             {/* <Testimonial/> */}
