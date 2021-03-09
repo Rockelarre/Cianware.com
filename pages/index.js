@@ -22,6 +22,9 @@ const HomePage =() => {
             <title>Cianware - Diseño y Programación</title>
             {/* <link rel="icon" href="/favicon.ico" /> */}
             <link rel="icon" href="/cianware.svg" />
+            <meta charset="UTF-8" />
+            <meta name="author" content="Daniel Andrés Vega Caro" />
+            <meta name="language" content="Spanish" />
             <meta name="description" content="Soy un profesional híbrido que realiza diseños de todo tipo 
                                                 y desarrollos digitales, haciendo uso de los medios que sean 
                                                 necesarios para concretar los proyectos, y de las últimas 
