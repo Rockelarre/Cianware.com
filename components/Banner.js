@@ -16,7 +16,7 @@ const Scrollbar = () => {
                                     <h4>Soy un hábil, riguroso e inventivo</h4>
                                 </div>
                                 <div className="slide-title">
-                                    <h2>Diseñador Ingenieril</h2>
+                                    <h2>Diseñador Multipropósito</h2>
                                 </div>
                                 <div className="btns">
                                     <a href="#contact" className="template-btn go-contact-area">Contácteme</a>
